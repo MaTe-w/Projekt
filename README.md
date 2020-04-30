@@ -15,3 +15,9 @@ Projekt sa skladá z rôrnych blokov
 ### Funkcia
 
 ![Funkcia](https://github.com/MaTe-w/Projekt/blob/master/Screenshot_01.png)
+
+### Zdroje
+
+https://reference.digilentinc.com/reference/programmable-logic/coolrunner-ii/reference-manual
+https://moodle.vutbr.cz/pluginfile.php/183804/mod_resource/content/1/vhdl_kubicek.pdf
+https://www.digikey.com/eewiki/pages/viewpage.action?pageId=20939345
